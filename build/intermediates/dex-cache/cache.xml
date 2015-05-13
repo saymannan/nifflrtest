@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Android\NifflrDummy\app\build\intermediates\pre-dexed\debug\classes-a934934f0189dfb67fb6201b5cf18bdbdf6b2a55.jar"
+        jar="C:\Android\NifflrDummy\app\build\intermediates\exploded-aar\com.github.manuelpeinado.fadingactionbar\fadingactionbar\3.1.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1db28e119b406a5fe367b63fb1be083d5dfe298a"/>
+
+</pre-dex-items>
